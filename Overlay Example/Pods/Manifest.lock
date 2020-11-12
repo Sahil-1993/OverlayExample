@@ -1,0 +1,16 @@
+PODS:
+  - OverlayContainer (3.5.1)
+
+DEPENDENCIES:
+  - OverlayContainer
+
+SPEC REPOS:
+  trunk:
+    - OverlayContainer
+
+SPEC CHECKSUMS:
+  OverlayContainer: a95f0f555fd0dd1addba3fc45370801e5fc16e68
+
+PODFILE CHECKSUM: e4b5b0887625099ba27439df0f6f61b4b3002e79
+
+COCOAPODS: 1.8.4
